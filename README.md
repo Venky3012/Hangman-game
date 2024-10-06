@@ -38,6 +38,3 @@ This is a simple Python implementation of the classic "Hangman" word-guessing ga
 
 ---
 
-## Example Game Flow
-
-### Initial Display:
